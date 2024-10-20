@@ -35,8 +35,10 @@ and creating content that will help others to learn new things is my hobby, I lo
           
 
 ## Recent publications
-[<img src="https://github.com/user-attachments/assets/abf2b950-5d98-4ff6-8b84-e899b65e8694" height="140">](https://medium.com/@brandoncode01/how-to-solve-any-problem-from-leetcode-and-hackerrank-3-steps-for-beginners-that-helped-me-solve-db649137345b?source=user_profile_page---------1-------------9202fe75defc---------------)
-[<img src="https://github.com/user-attachments/assets/9070ba07-22ea-4420-a7e4-6d975a631e53" height="140">](https://medium.com/@brandoncode01/leetcode-daily-question-2406-8d3f2453991e?source=user_profile_page---------0-------------9202fe75defc---------------)
+|[<img src="https://github.com/user-attachments/assets/abf2b950-5d98-4ff6-8b84-e899b65e8694" height="140">](https://medium.com/@brandoncode01/how-to-solve-any-problem-from-leetcode-and-hackerrank-3-steps-for-beginners-that-helped-me-solve-db649137345b?source=user_profile_page---------1-------------9202fe75defc---------------)|[<img src="https://github.com/user-attachments/assets/9070ba07-22ea-4420-a7e4-6d975a631e53" height="140">](https://medium.com/@brandoncode01/leetcode-daily-question-2406-8d3f2453991e?source=user_profile_page---------0-------------9202fe75defc---------------)|
+|-----|-----|
+
+
 
 
 <br />
