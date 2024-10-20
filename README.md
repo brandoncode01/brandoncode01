@@ -1,4 +1,4 @@
-# Brandon Garcia Rodriguez 🚀🪐 
+# 🚀🪐  Brandon Garcia Rodriguez 
 
 `Software Engineer/Computer Engineer/Writer/Content Creator`
 
@@ -12,7 +12,7 @@ and creating content that will help others to learn new things is my hobby, I lo
 [![image](https://github.com/user-attachments/assets/99956770-30b2-4750-8227-daf15ad4fe73)](https://x.com/brandoncode01)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/brandoncode01/)
 
-## Languages, Tools, and Frameworks
+## 🖥️ Languages, Tools, and Frameworks
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="30" height="30" alt="Java Logo" >
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="30" height="30" alt="Python Logo" >
@@ -34,7 +34,7 @@ and creating content that will help others to learn new things is my hobby, I lo
 <br />
           
 
-## Recent publications
+## ✍️ Recent publications
 |[<img src="https://github.com/user-attachments/assets/abf2b950-5d98-4ff6-8b84-e899b65e8694" >](https://medium.com/@brandoncode01/how-to-solve-any-problem-from-leetcode-and-hackerrank-3-steps-for-beginners-that-helped-me-solve-db649137345b?source=user_profile_page---------1-------------9202fe75defc---------------)|[<img src="https://github.com/user-attachments/assets/9070ba07-22ea-4420-a7e4-6d975a631e53">](https://medium.com/@brandoncode01/leetcode-daily-question-2406-8d3f2453991e?source=user_profile_page---------0-------------9202fe75defc---------------)|
 |-----|-----|
 
@@ -43,7 +43,7 @@ and creating content that will help others to learn new things is my hobby, I lo
 
 <br />
 
-## Stats
+## 📊 Stats
 
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=brandoncode01" alt="Gift's LangStat" style="margin-right: 10px;" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brandoncode01&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language"/>|
 |------------------|------------------|
