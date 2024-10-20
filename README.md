@@ -1,6 +1,6 @@
 # Brandon Garcia Rodriguez 🚀🪐 
 
-**Software Engineer/Computer Engineer/Writer/Content Creator**
+`Software Engineer/Computer Engineer/Writer/Content Creator`
 
 Passionate Software Engineer, Computer Engineer, Writer, and Content Creator, thrilled to contribute and work together to build software that will make a good impact 
 in the world. My passion is to create software that many people will use and collaborate with teams to create high-quality - scalable software that will persist through time. Writing
